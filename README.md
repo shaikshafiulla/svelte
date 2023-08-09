@@ -1,3 +1,5 @@
+topics : routing, data preloading, fetching the data using loaders in page.svelte
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
